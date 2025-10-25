@@ -54,6 +54,11 @@ We also applied **data augmentation** (rotation, zoom, shifting), which doubled 
 ## Developed by
 
 This project was developed by:
+| Name | GitHub Profile |
+|------|----------------|
+| Hissah | [@HissaKhaled](https://github.com/HissaKhaled) |
+| Reem Alsuhaim | [@Reem-Alsuhaim](https://github.com/Reem-Alsuhaim) |
+| Remas Almania | [@RemasAlmania](https://github.com/RemasAlmania) |
 
 - **@Hissah-Ibn-Qurmulah**  
 - **@Reem-Alsuhaim**  
