@@ -55,8 +55,8 @@ We also applied **data augmentation** (rotation, zoom, shifting), which doubled 
 
 This project was developed by:
 
-- **Hissah Ibn Qurmulah**  
-- **Reem Alsuhaim**  
-- **Remas Almania**
+- **@Hissah-Ibn-Qurmulah**  
+- **@Reem-Alsuhaim**  
+- **@Remas-Almania**
 
 
